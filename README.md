@@ -1,5 +1,5 @@
 # EEPortal
-Desafio prático Avansys, utilizando as seguintes tecnologias:
+Exemplo prático de uma aplicação de um portal de eventos esportivos, utilizando as seguintes tecnologias:
 
 - Java 11
 - Spring Boot 2.5.3 + Hibernate
